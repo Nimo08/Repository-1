@@ -3,9 +3,4 @@ The tags used such as <html>,<head> and <body> are arranged in order to display 
 The tags are nested into each other in a a parent-child format for example:<html><head></head></html>
 There is a link provided to display the image of the cookie and an alternative description if no image is displayed
 There is a link provided to access on the cookie recipes online shaded in blue
-
-kffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-
-
-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 ADDED NEW FETURES ON LINE 345
